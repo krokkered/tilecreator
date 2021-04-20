@@ -6,4 +6,4 @@ be sure to install Colorutils
 pip install colorutils
 
 
-![alt text](https://github.com/krokkered/tilecreator/edit/main/tiles.png)
+![Screenshot](tiles.png)
